@@ -1,7 +1,11 @@
 body{
-    margin:0;
-        background-color:red;
+    font-family:ariel;
+    font-size:20px;
+    margin:10px;
+        background-color:white;
         }
-.topnav {
-    background-color:blue;
+.nav {
+
+    padding:40px;
+    background-color:blueviolet;
 }
